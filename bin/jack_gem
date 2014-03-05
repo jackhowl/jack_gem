@@ -1,0 +1,5 @@
+#!/Users/xok6/.rvm/bin/ruby
+
+require 'jack_gem'
+
+puts "Gem finished running"
